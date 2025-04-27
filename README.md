@@ -1,1 +1,1 @@
-# Siamese-ResNet18
+SR-18
